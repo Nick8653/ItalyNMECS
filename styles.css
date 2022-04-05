@@ -1,0 +1,86 @@
+
+    h1{
+       color: rgb(235, 235, 235); 
+    }
+
+h3 {
+border: 5px dotted ;
+
+}
+
+
+
+img{
+   display: block;
+   width: 80%;
+margin: auto;
+}
+
+h5{
+   font-size: xx-large;
+}
+
+h6{
+   font-size: xx-large;
+}
+
+h4{
+   font-size: xx-large;
+}
+
+
+h1{
+ display: block;
+ margin:auto
+  
+}
+
+
+
+h1{
+   background-color: coral;
+}
+
+h1{
+   text-align: center;
+}
+
+
+h5{
+   background-color: rgb(59, 59, 59);
+}
+
+h5{
+   color: rgb(255, 255, 255);
+}
+
+h2{background-color: rgb(255, 102, 0);}
+
+h2{
+   color: white;
+}
+
+
+body{
+   color: rgb(0, 0, 0);
+}
+
+body{
+   background-color: rgb(255, 210, 128);
+}
+
+h4{
+   background-color: black;
+}
+
+h4{
+   color: azure;
+}
+
+h6{
+   background-color: black;
+}
+
+h6{
+   color: blanchedalmond;
+}
